@@ -19,6 +19,8 @@
  - Ticket related websites. Ticketmaster, LiveNation, StubHub, vividseats,
  - Sneaker Bot Development.
 ## Thank you  !!!
+
+<img height="300" src="https://github.com/skw622/ECCAPP/blob/master/public/favicon.png" />
 <!--
 **skw622/skw622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
