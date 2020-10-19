@@ -3,6 +3,7 @@
  - Angular, React/Redux-Saga, Hook, Vue/Vuex, Vue-router,
  - Node.js and Express, javascript/Typescript,
  - Python, Django/Flask,
+ - PHP, Laravel, Codeigniter,
  - Electron.js framework for desktop application,
  - MySQL, MongoDB, PostgreSQL, No SQL,
 #### My Experiences are:
