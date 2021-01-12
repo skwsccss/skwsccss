@@ -20,7 +20,7 @@
  - Ticket related websites. Ticketmaster, LiveNation, StubHub, vividseats,
  - Sneaker Bot Development.
 ## Thank you  !!!
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skw622)](https://github.com/skw622)
 
 <!--
 **skw622/skw622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
