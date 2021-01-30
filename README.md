@@ -7,6 +7,8 @@
  - Electron.js framework for desktop application,
  - MySQL, MongoDB, PostgreSQL, No SQL,
 #### My Experiences are:
+ - Ticket related websites. Ticketmaster, LiveNation, StubHub, vividseats,
+ - Sneaker Bot Development.
  - AWS, Google cloud, Digital Ocean,
  - Real Estate Web development,
  - eCommerce Web development,
@@ -17,8 +19,7 @@
  - Web Scraping and Data mining,
  - STT, TTS (Google, IBM Watson, Microsoft Bing),
  - Rest API and Soap API,
- - Ticket related websites. Ticketmaster, LiveNation, StubHub, vividseats,
- - Sneaker Bot Development.
+
 ## Thank you  !!!
 [![Github stats](https://github-readme-stats.vercel.app/api?username=skwsccss&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/skwsccss?tab=repositories)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skwsccss&layout=compact&langs_count=20&theme=highcontrast)](https://github.com/skwsccss?tab=repositories)
