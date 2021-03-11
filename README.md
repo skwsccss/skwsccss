@@ -23,8 +23,9 @@
 ## Thank you  !!!
 [![Github stats](https://github-readme-stats.vercel.app/api?username=skwsccss&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/skwsccss?tab=repositories)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skwsccss&layout=compact&langs_count=20&theme=highcontrast)](https://github.com/skwsccss?tab=repositories)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@skw&theme=highcontrast)](https://wakatime.com/leaders)
 <!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@skw&theme=highcontrast)](https://wakatime.com/leaders)
+
 **skwsccss/skwsccss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
