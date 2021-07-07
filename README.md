@@ -7,7 +7,7 @@
  - Electron.js framework for desktop application,
  - MySQL, MongoDB, PostgreSQL, No SQL,
 #### My Experiences are:
- - Ticket related websites. Ticketmaster, LiveNation, StubHub, vividseats,
+ - Ticket related Tool development (Ticketmaster, LiveNation, StubHub, vividseats),
  - Sneaker Bot Development.
  - AWS, Google cloud, Digital Ocean,
  - Real Estate Web development,
