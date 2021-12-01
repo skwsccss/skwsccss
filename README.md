@@ -3,7 +3,6 @@
  - Angular, React/Redux-Saga, Hook, Vue/Vuex, Vue-router,
  - Node.js and Express, javascript/Typescript,
  - Python, Django/Flask,
- - PHP, Laravel, Codeigniter,
  - Electron.js framework for desktop application,
  - MySQL, MongoDB, PostgreSQL, No SQL,
 #### My Experiences are:
@@ -21,7 +20,7 @@
  - Rest API and Soap API,
 
 ## Thank you  !!!
-[![Github stats](https://github-readme-stats.vercel.app/api?username=skwsccss&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/skwsccss?tab=repositories)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=skwsccss&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/skwsccss?tab=repositories) -->
 <!--
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skwsccss&layout=compact&langs_count=20&theme=highcontrast)](https://github.com/skwsccss?tab=repositories)
 <!--
