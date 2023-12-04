@@ -1,8 +1,8 @@
 ## Hello 👋, Thank you for your visiting
 #### My Main Programming Languages are:
  - Angular, React/Redux-Saga, Hook, Vue/Vuex, Vue-router,
+ - Dart/Flutter React Native to build the mobile application for IOS/Android
  - Node.js and Express, javascript/Typescript,
- - Dart/Flutter to build the mobile application for IOS/Android
  - Python, Django/Flask,
  - Electron.js framework for desktop application,
  - MySQL, MongoDB, PostgreSQL, No SQL,
